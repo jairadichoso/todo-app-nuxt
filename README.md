@@ -14,6 +14,8 @@ Required
 - Mark a todo item as done by clicking on the check icon
 - Edit a todo item by double-clicking on text and pressing enter to validate or esc to cancel
 - Delete a todo by clicking on the cross icon
+- Mobile responsive
+- Ability to do everything using keyboard
 
 ## Build Setup
 
