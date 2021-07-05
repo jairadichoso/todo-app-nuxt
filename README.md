@@ -7,15 +7,15 @@ It uses [JSONPlaceholder](https://jsonplaceholder.typicode.com/) as a mock REST 
 
 ## Features
 
-This project is a simple Todo App with basic CRUD operations. Features include the following:
+This project is a simple Todo App with basic CRUD operations. 
 
-Required
+Features include the following:
 - Create a new Todo item then press enter or click on the plus icon
 - Mark a todo item as done by clicking on the check icon
 - Edit a todo item by double-clicking on text and pressing enter to validate or esc to cancel
 - Delete a todo by clicking on the cross icon
 - Mobile responsive
-- Ability to do everything using keyboard
+- Ability to easily navigate using keyboard
 
 ## Build Setup
 
