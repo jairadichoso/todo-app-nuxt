@@ -17,7 +17,7 @@ Required
 
 ## Build Setup
 
-1. Clone locally using ``
+1. Clone locally using `git clone https://github.com/jairadichoso/todo-app-nuxt.git`
 2. Install dependencies using `npm install`
 3. Start your server using `npm run dev`
 4. Navigate to app in [browser](http://localhost:3000)
